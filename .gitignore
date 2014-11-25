@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# Mac
+DerivedData/*
+.DS_Store
+build/*
